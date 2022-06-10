@@ -6,7 +6,7 @@ Class : L2CC<br>
 
 <h1>Explanation<br></h1>
 
-There are 8 python files in total<br>
+There are 8 java files in total<br>
 Please use the FinalProject.java to run the code<br>
 
 
