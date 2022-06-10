@@ -7,7 +7,8 @@ Class : L2CC<br>
 <h1>Explanation<br></h1>
 
 There are 8 java files in total<br>
-Please use the FinalProject.java to run the code<br>
+Please use the FinalProject.java to run the code.<br>
+The code location is in BestEmp folder.<br>
 
 
 <h1>Video Demonstration</h1><br>
