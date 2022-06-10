@@ -1,4 +1,4 @@
-<h1> FINALPROJECTOOP</h1><br><br>
+<h1> FINALPROJECTOOP</h1><br>
 
 Name : William Jonathan Mulyadi<br>
 NIM : 2502045683<br>
