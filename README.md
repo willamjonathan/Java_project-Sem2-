@@ -15,3 +15,6 @@ The code location is in BestEmp folder.<br>
 
 
 <h1>Project Report</h1><br>
+
+<h1>Other information</h1><br>
+https://github.com/willamjonathan/addprojOOP
