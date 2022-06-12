@@ -9,7 +9,7 @@ Class : L2CC<br>
 There are 8 java files in total<br>
 Please use the FinalProject.java to run the code.<br>
 The code location is in BestEmp folder.<br>
-
+Or you can access through the link : https://github.com/willamjonathan/FINALPROJECTOOP/tree/main/BestEmp<br>
 
 <h1>Video Demonstration</h1><br>
 
