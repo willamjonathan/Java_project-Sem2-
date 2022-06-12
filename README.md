@@ -12,9 +12,9 @@ The code location is in BestEmp folder.<br>
 Or you can access through the link : https://github.com/willamjonathan/FINALPROJECTOOP/tree/main/BestEmp<br>
 
 <h1>Video Demonstration</h1><br>
-Link: https://www.youtube.com/watch?v=wxBOXTfDIak
+Link: https://www.youtube.com/watch?v=wxBOXTfDIak<br>
 
 <h1>Project Report</h1><br>
-
+Link: https://github.com/willamjonathan/FINALPROJECTOOP/blob/main/finalprojectreport.pdf<br>
 <h1>Other information</h1><br>
 https://github.com/willamjonathan/addprojOOP
